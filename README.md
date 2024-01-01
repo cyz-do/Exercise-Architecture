@@ -1,5 +1,7 @@
 # Modeule 4 - Solution Architecting
 
+![Module4-SolutionArchitecting](https://github.com/cyz-do/Exercise-Architecture/blob/main/Module4-SolutionArchitecting.jpg)
+
 ### 1. Amazon Route 53
 Amazon Route 53 routes end-user requests resolving Domain Name Service (DNS).
 
